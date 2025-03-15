@@ -1,0 +1,67 @@
+p {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.apple-new {
+  color: orange;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.apple-laptop {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.apple-info {
+  font-size: 30;
+  font-weight: bold;
+}
+
+.apple-price {
+  font-size: 15px;
+}
+
+.apple-buy {
+  margin-left: 550px;
+  margin-top: 5px;
+  background-color: rgb(0, 128, 255);
+  color: white;
+  border-radius: 15px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+}
+
+.stock-price {
+  margin-top: 40px;
+  font-weight: none;
+  font-size: 22px;
+  text-align: left;
+ }
+
+ .usd-symbol {
+  font-size: 14px;
+  color: rgb(93, 93, 93);
+ }
+
+ .stock-change {
+  font-size: 12px;
+  text-align: left;
+  color: rgb(52, 148, 52);
+ }
+
+ .after-hours {
+  text-align: left;
+  font-size: 12px;
+  color: rgb(93, 93, 93);
+ }
+ .decrease-stock {
+  color: red;
+ }
