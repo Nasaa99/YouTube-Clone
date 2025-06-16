@@ -1,7 +1,8 @@
 .thumbnail {
   width: 100%;
 }
- .thumb-wrapper {
+
+.thumb-wrapper {
   position: relative;
   aspect-ratio: 16/9;
   overflow: hidden;
@@ -51,13 +52,13 @@
 .video-info-grid {
   display: grid;
   grid-template-columns: 50px 1fr;
-
 }
 
 .profile-pic {
   width: 36px;  
-  border-radius: 50px
+  border-radius: 50px;
 }
+
 .thumbnail-row {
   margin-bottom: 8px;
   position: relative;
@@ -70,9 +71,9 @@
 }
 
 .video-author, 
-.video-stats  {
+.video-stats {
   font-size: 12px;
-  color: rgb(96, 96, 96)
+  color: rgb(96, 96, 96);
 }
 
 .video-author {
